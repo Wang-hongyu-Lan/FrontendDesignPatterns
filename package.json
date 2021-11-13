@@ -1,0 +1,28 @@
+{
+  "name": "frontenddesignpatterns",
+  "version": "1.0.0",
+  "description": "Design patterns.",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wang-hongyu-Lan/FrontendDesignPatterns.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Design",
+    "patterns"
+  ],
+  "author": "WHY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wang-hongyu-Lan/FrontendDesignPatterns/issues"
+  },
+  "homepage": "https://github.com/Wang-hongyu-Lan/FrontendDesignPatterns#readme"
+}
