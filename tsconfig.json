@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist",
+      "typeRoots": ["./@types","./node_modules/@types"],
+      "sourceMap": true,
+      "allowJs": true,
+      "resolveJsonModule": true,
+      "esModuleInterop":true,
+      "noImplicitAny": false,
+      "strict": false,
+      "module": "commonjs",
+      "target": "es5",
+      "jsx": "react",
+      "types": ["react","node","jest"]
+    },
+    "include": [
+      "pattern/*"
+    ],
+    "exclude": [
+      "node_modules",
+      "dist"
+    ],
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+}
